@@ -1,7 +1,7 @@
 1)Movie Recommendation System:
 This project implements a Recommendation System using collaborative filtering and/or content-based filtering to recommend items (e.g., movies, products, books) to users based on their preferences and behavior.
 
-2)Features
+2)Features: 
 Recommend movies/items based on:
 User-based Collaborative Filtering
 Item-based Collaborative Filtering
@@ -11,7 +11,7 @@ Similarity calculation (cosine similarity, Pearson correlation)
 Evaluation using RMSE or precision@k
 Scalable for small and large datasets
 
-3)Technologies Used
+3)Technologies Used: 
 Python
 pandas, numpy
 scikit-learn
