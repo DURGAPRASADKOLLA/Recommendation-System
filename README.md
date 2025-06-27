@@ -18,6 +18,8 @@ scikit-learn
 Surprise (for collaborative filtering)
 Matplotlib / Seaborn
 
-4)output
+4)output: 
+
+
 ![Screenshot 2025-06-27 095757](https://github.com/user-attachments/assets/44553b4d-10c0-4102-af5e-7aadd60244e2)
 
